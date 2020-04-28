@@ -1,0 +1,24 @@
+body{
+    background-image: url(bmw.jpg);
+    background-size: cover;
+    font-family: fantasy;
+}
+main{
+    background-color: rgba(240, 255, 255, 0.315);
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+.row{
+    margin: 20px;
+    padding: 10px;
+}
+#cenaS{
+    font-size: 25px;
+    font-weight: bolder;
+    color: red;
+}
